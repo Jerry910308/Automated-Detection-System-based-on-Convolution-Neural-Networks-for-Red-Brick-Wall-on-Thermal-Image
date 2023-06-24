@@ -5,11 +5,11 @@
 1. Image preprocessing_1.py
 改變影像大小
 2. Image preprocessing_2.py
-###### 將影像上黑色遮罩
+將影像上黑色遮罩
 3. Image preprocessing_3.py
-###### 將影像進行分割
+將影像進行分割
 4. Image preprocessing_4.py
-###### 將影像進行轉向+-10度
+將影像進行轉向+-10度
 
 ### CNN training
 ###### path為導入訓練資料路徑
