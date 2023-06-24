@@ -1,8 +1,23 @@
 # Convolutional Neural Network-based Identification Using Thermal Images to Detect Moisture in Red-Brick Walls of Cultural Heritage Buildings
 ###### The code in [filename] is for demonstrate the effect of CNN model.
 ## Usage
-### Image preprocessing_1
-1.
+### Image preprocessing
+###### PATH為檔案路徑 
+1. Image preprocessing_1.py
+###### 改變影像大小
+2. Image preprocessing_2.py
+###### 將影像上黑色遮罩
+3. Image preprocessing_3.py
+###### 將影像進行分割
+4. Image preprocessing_4.py
+###### 將影像進行轉向+-10度
+
+### CNN training
+###### path為導入訓練資料路徑
+
+### UI
+###### name.mat 為導入的訓練結果模型
+
 
 
 ###### Need to download the code and CNN model in [filename], and put the code and CNN model in the same file.
