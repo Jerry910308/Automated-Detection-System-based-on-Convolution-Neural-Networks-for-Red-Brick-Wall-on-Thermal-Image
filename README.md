@@ -1,0 +1,1 @@
+# Automated-Detection-System-based-on-Convolution-Neural-Networks-for-Red-Brick-Wall-on-Thermal-Image
