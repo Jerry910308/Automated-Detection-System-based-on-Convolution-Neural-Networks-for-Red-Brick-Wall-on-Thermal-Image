@@ -1,5 +1,5 @@
 # Convolutional Neural Network-based Identification Using Thermal Images to Detect Moisture in Red-Brick Walls of Cultural Heritage Buildings
-###### The code in [filename] is for demonstrate the effect of CNN model.
+###### 專案大綱
 ## Usage
 ### Image preprocessing
 PATH為資料路徑
@@ -27,9 +27,9 @@ PATH為資料路徑
 1. The result will show on the screen as soon as it finish.
 1. Click the "實際圖儲存" bottom or "熱影像儲存" bottom if you want to save the result.
 ## Required Environment
-* MATALB
-* Tool Box: Deeplearning , Image Processing
+* MATALB,PYTHON
+* MATALB Tool Box: Deeplearning , Image Processing
 ## Update
 ###### [時間]
 ## Author
-###### [論文作者]
+###### Yu-Chieh Chu, Yuan-Jin Lin, Chen-Yu Ye
