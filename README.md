@@ -1,5 +1,5 @@
 # Convolutional Neural Network-based Identification Using Thermal Images to Detect Moisture in Red-Brick Walls of Cultural Heritage Buildings
-###### 專案大綱
+###### 此為論文所需CODE
 ## Usage
 ### Image preprocessing
 PATH為資料路徑
