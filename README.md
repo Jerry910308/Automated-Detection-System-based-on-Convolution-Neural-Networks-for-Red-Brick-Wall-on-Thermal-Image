@@ -3,7 +3,7 @@
 ## Usage
 ### Image preprocessing
 1. Image preprocessing_1.py
-###### 改變影像大小
+######   改變影像大小
 2. Image preprocessing_2.py
 ###### 將影像上黑色遮罩
 3. Image preprocessing_3.py
