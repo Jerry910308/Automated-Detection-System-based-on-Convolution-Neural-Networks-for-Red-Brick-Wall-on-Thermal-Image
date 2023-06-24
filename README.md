@@ -17,11 +17,7 @@
 
 ### UI
 ###### name.mat 為導入的訓練結果模型
-
-
-
-###### Need to download the code and CNN model in [filename], and put the code and CNN model in the same file.
-### Step
+#### Step
 1. Run the code with matlab.
 1. Click the "選擇" bottom under the title "熱影像".
 1. Select the Thermal Image want to upload.
