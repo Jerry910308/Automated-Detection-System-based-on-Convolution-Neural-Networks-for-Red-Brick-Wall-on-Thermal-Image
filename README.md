@@ -1,6 +1,10 @@
 # Convolutional Neural Network-based Identification Using Thermal Images to Detect Moisture in Red-Brick Walls of Cultural Heritage Buildings
 ###### The code in [filename] is for demonstrate the effect of CNN model.
 ## Usage
+### Image preprocessing_1
+1.
+
+
 ###### Need to download the code and CNN model in [filename], and put the code and CNN model in the same file.
 ### Step
 1. Run the code with matlab.
