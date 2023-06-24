@@ -2,6 +2,7 @@
 ###### The code in [filename] is for demonstrate the effect of CNN model.
 ## Usage
 ### Image preprocessing
+######PATH為資料路徑
 * Image preprocessing_1.py
 改變影像大小
 * Image preprocessing_2.py
